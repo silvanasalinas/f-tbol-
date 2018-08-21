@@ -1,2 +1,3 @@
-# f-tbol-
-Los equipos en los que he jugado fútbol soccer
+tarea de programacion
+316620370
+vanasalinas@gmail.com
